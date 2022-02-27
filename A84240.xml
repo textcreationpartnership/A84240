@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull newes from Dover, Wherein is declared hovv a noble man was sent from the King, to demand the castle to be resigned to him; but was bravely repul'st by the governour of the said castle. Also horrible newes from Portsmouth, declaring how Collonell Goring hath abused the inhabitants of the said town that stand for the Parliament. With certaine observations concerning the particular actions of the said Collonell Goring, since the beginning of this Parliament whereunto is annexed the Parliaments resolution concerning the sending of forces to Portsmouth and other places, which are oppressed by the malignant party of this kingdom. It is ordered that this be printed and published. Iohn. Browne Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84240</idno>
+            <idno type="STC">Wing E3744</idno>
+            <idno type="STC">Thomason E110_14</idno>
+            <idno type="STC">ESTC R10962</idno>
+            <idno type="EEBO-CITATION">99858909</idno>
+            <idno type="PROQUEST">99858909</idno>
+            <idno type="VID">110969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110969)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E110[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull newes from Dover, Wherein is declared hovv a noble man was sent from the King, to demand the castle to be resigned to him; but was bravely repul'st by the governour of the said castle. Also horrible newes from Portsmouth, declaring how Collonell Goring hath abused the inhabitants of the said town that stand for the Parliament. With certaine observations concerning the particular actions of the said Collonell Goring, since the beginning of this Parliament whereunto is annexed the Parliaments resolution concerning the sending of forces to Portsmouth and other places, which are oppressed by the malignant party of this kingdom. It is ordered that this be printed and published. Iohn. Browne Cler. Parl.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hen. Fowler,</publisher>
+                  <pubPlace>ondon [i.e. London] :</pubPlace>
+                  <date>August 12. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dover Castle (Dover, England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110969:1"/>
+            <pb facs="tcp:110969:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull Newes FROM DOVER, Wherein is declared hovv a Noble man was ſent from the King, to demand the Caſtle to be reſigned to Him; But was bravely repul'ſt by the Governour of the ſaid Caſtle. ALSO Horrible Newes from <hi>Portſmouth,</hi> declaring How Collonell <hi>Goring</hi> hath abuſed the inhabitants of the ſaid Town that ſtand for the Parliament. With certaine Obſervations concerning the particular actions of the ſaid Collonell <hi>Goring,</hi> ſince the beginning of this Parliament Whereunto is annexed the Parliaments Reſolution concerning the ſending of forces to <hi>Portſmouth</hi> and other places, which are oppreſſed by the Malignant party of this Kingdom.</p>
+            <p>
+               <floatingText xml:lang="eng" type="order_to_print">
+                  <body>
+                     <p>It is Ordered that this be Printed and publiſhed.</p>
+                     <closer>
+                        <signed>Iohn. Browne Cler. Parl.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Hen. Fowler; Auguſt</hi> 12. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:110969:2"/>
+            <pb n="3" facs="tcp:110969:2"/>
+            <head>Exceeding Ioyfull Newes from DOVER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Governor of <hi>Portſmouth</hi> having at the beginning of this <hi>Parliament,</hi> diſcovered a Plot to the <hi>Parliament,</hi> con<g ref="char:EOLhyphen"/>cerning the deſign of bring<g ref="char:EOLhyphen"/>ing the Army up to <hi>London;</hi> which good ſervice (being ſo acceptable to the <hi>Parliament</hi>) he being made by the King Governor of the ſaid Town, was likewiſe eſtabliſhed and confirmed Governor of the ſame by the <hi>Parliament;</hi> ſince which time he hath built Sconces and Fortifications, with ſeverall other works under pretence of a good ſervice done to the King and Kingdome, as in<g ref="char:EOLhyphen"/>deed it had beene, if rightly imployed, that Town lying open upon the Sea, and being one of the chief Ports of this Kingdome: But
+<pb n="4" facs="tcp:110969:3"/>he having ſtrongly fortified himſelfe, and with all under-hand by trifling favours and large promiſes, won to himſelfe a party in the Town, beſide the Gariſon. He now tooke time to de<g ref="char:EOLhyphen"/>clare his treacherous intentions, and to bring that to light which he had long foſtered in his boſome.</p>
+            <p>Wherefore finding that the difference be<g ref="char:EOLhyphen"/>tween the King and <hi>Parliament,</hi> was almoſt at the height, and fearing that the malignant par<g ref="char:EOLhyphen"/>ty would have the worſt, he thought now while he had the power in his own hand, to re<g ref="char:EOLhyphen"/>quite the <hi>Parliament</hi> with treachery for their honorable gratitude.</p>
+            <p>Wherefore he reſigned the ſaid Fort to the King, to the end that it might be imployed a<g ref="char:EOLhyphen"/>gainſt the King; for however their pretence of ſtanding for the King, may appeare for the pre<g ref="char:EOLhyphen"/>ſent to thoſe that looke no further, yet let but the diſcerning eye of reaſon look forward to the end, and quickly a diſcovery will be made of their black and treacherous intentions.</p>
+            <p>Nevertheleſſe, though the ſaid Collonell <hi>Go<g ref="char:EOLhyphen"/>ring</hi> had reſigned the Town to his Majeſty, and
+<pb n="5" facs="tcp:110969:3"/>had a great party in the Town; Yet there were alſo a conſiderable party for the <hi>Parliament,</hi> which if they had been timely ſeconded might happily have reduced it to its firſt ſtate of obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>Which Collonell <hi>Goring</hi> eſpying gave a ſtrickt command through out the Town, that upon paine of impriſonment, all men that were either capable of bearing Armes themſelves, or able to find men to ſerve for them, ſhould meet on the Bowling Alley compleately armed, for de<g ref="char:EOLhyphen"/>fence of the King, <hi>Parliament</hi> and Kingdom.</p>
+            <p>This he did only to diſcover who went for the <hi>Parliament,</hi> knowing that they would abſent themſelves.</p>
+            <p>Which was according to his imagination, for almoſt halfe the Town &amp; of the better ſort declare too that they ſtood for the King and <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> but in a contrary ſence to that which he intended.</p>
+            <p>Nevertheleſſe by reaſon of the Garriſon Sol<g ref="char:EOLhyphen"/>diers, and the party which he had obtained in the Town, namely, poore mechanick perſons, ſuch whoſe fortunes are deſperate, and divers
+<pb n="6" facs="tcp:110969:4"/>of the Kings ſervants. The ſaid Collonell <hi>Go<g ref="char:EOLhyphen"/>rings</hi> party was much greater than the other, by which meanes, Collonell <hi>Goring</hi> having given command, they were forcibly diſarmed their goods ceiſed or namely all manner of Ammu<g ref="char:EOLhyphen"/>nition, and many other inſufferable injuries done unto them, to the great grief and terror of all the Inhabitanss there about, God grant that there may bee ſome ſpeedy courſe taken to ſup<g ref="char:EOLhyphen"/>preſſe the preſent, and to prevent future miſ<g ref="char:EOLhyphen"/>chiefes of the like nature.</p>
+            <p>For the malignant party did not only aime at that Fort only (if report ſpeake truth) but at <hi>Dover</hi> alſo, for it is credibly reported that the laſt week a Noble-man came to <hi>Dover,</hi> &amp; in his Majeſties name, demanded that the Caſtle ſhould be reſigned to him but the Governour thereof asked him if he had likewiſe authority from the <hi>Parliament,</hi> who anſwered no; nei<g ref="char:EOLhyphen"/>ther cared he for their authority, withall tel<g ref="char:EOLhyphen"/>ling him that if he did not peaceably reſigne it, ere long it ſhould be too hot for him, with many other braving words, which the Gover<g ref="char:EOLhyphen"/>nor hearing, being incenſed, called for a guard,
+<pb n="7" facs="tcp:110969:4"/>telling him that he would lay him where he ſhould be cold enough till that time came; which the valliant Lord ſeeing, like an unman<g ref="char:EOLhyphen"/>nerly Courtier, turned taile and rid away, not ſo much as thanking the Governor for his kind entertainment.</p>
+            <p>God grant that all thoſe that are intruſted by the <hi>Parliament</hi> in matters of ſuch high concern<g ref="char:EOLhyphen"/>ment, may as truly and honorably diſcharge their duties.</p>
+            <p>The High Court of <hi>Parliament</hi> likewiſe will not be wanting in their care and Counſels to be aſſiſtant in ſo religious deſigne; for they de<g ref="char:EOLhyphen"/>clare that the war being thus begun by his Ma<g ref="char:EOLhyphen"/>jeſty, they hold themſelves bound in conſcience to raiſe forces for the preſervation of the peace of the Kingdom, and protection of the ſubjects in their perſons and eſtates, according to Law. In the oppoſing of all which, they deſire the hearty concurrence of all the well diſpoſed ſub<g ref="char:EOLhyphen"/>jects of this Kingdom, and ſhall manifeſt by their courſes and endeavours, that they are car<g ref="char:EOLhyphen"/>ried by no by reſpects, but by the publick good, which they will alwaies preferre before their Lives and Fortunes.</p>
+            <pb n="8" facs="tcp:110969:5"/>
+            <p>So that it reſts only that the free borne <hi>Engliſh</hi> Nation do conſider whether they will adhere to the King and his <hi>Parliament,</hi> by which they have enjoyed all that is deare unto them (and without which they have no poſſibility of en<g ref="char:EOLhyphen"/>joying any thing) or to the King, ſeduced by wicked Counſell and Cavaliers, who have de<g ref="char:EOLhyphen"/>ſigned all to ſlavery and confuſion, which by Gods providence and our joynt endeavour may be timely prevented.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
